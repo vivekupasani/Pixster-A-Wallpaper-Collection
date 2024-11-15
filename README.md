@@ -12,7 +12,51 @@
 - 🙈View and download wallpapers from your favorites list at any time.
 
 ## 🎨Screenshots
-- A V A I L A B L E - S O O N
+<img src="https://github.com/user-attachments/assets/f68db074-4fc1-46bc-b71e-1a89bffddd7b" alt="Screenshot 1" width="250"/>
+&nbsp
+&nbsp
+&nbsp
+
+<img src="https://github.com/user-attachments/assets/29aa1547-618a-46ab-998b-3e7c7a76b4cb" alt="Screenshot 1" width="250"/>
+&nbsp
+&nbsp
+&nbsp
+
+
+<img src="https://github.com/user-attachments/assets/c001d846-c882-4995-a57f-95b8253606f5" alt="Screenshot 1" width="250"/>
+&nbsp
+&nbsp
+&nbsp
+
+
+<img src="https://github.com/user-attachments/assets/c10741ef-19c4-45c4-b027-ded2cb6ee6ab" alt="Screenshot 1" width="250"/>
+&nbsp
+&nbsp
+&nbsp
+
+
+<img src="https://github.com/user-attachments/assets/fffd5b9f-ba5e-4028-b1ee-1829422cb973" alt="Screenshot 1" width="250"/>
+&nbsp
+&nbsp
+&nbsp
+
+
+<img src="https://github.com/user-attachments/assets/8f922531-cf5d-47c3-b0fd-2eec351e8175" alt="Screenshot 1" width="250"/>
+&nbsp
+&nbsp
+&nbsp
+
+
+<img src="https://github.com/user-attachments/assets/a782fda6-89f8-452b-866d-e033375e7c15" alt="Screenshot 1" width="250"/>
+&nbsp
+&nbsp
+&nbsp
+
+
+<img src="https://github.com/user-attachments/assets/14aa48ec-fe8d-469b-a581-11f797266208" alt="Screenshot 1" width="250"/>
+&nbsp
+&nbsp
+&nbsp
 
 ## 🛠️Built With
 
