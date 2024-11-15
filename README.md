@@ -2,14 +2,33 @@
 
 **Pixster** is a feature-rich wallpaper collection app where users can explore, download, and save their favorite wallpapers. Developed using **Flutter**, **Bloc**, **HTTP**, and **Hive**, Pixster ensures a seamless experience for wallpaper enthusiasts.
 
-## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Built With](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
+## 📱Features
+
+- 🧑‍💻Browse a wide collection of high-quality wallpapers.
+- 📩Download wallpapers directly to your device.
+- 🔎Search for wallpapers by keywords.
+- ➕Add wallpapers to your favorites for quick access.
+- 🙈View and download wallpapers from your favorites list at any time.
+
+## 🎨Screenshots
+- A V A I L A B L E - S O O N
+
+## 🛠️Built With
+
+### Core Technologies
+
+- **Flutter**: For cross-platform app development.
+- **BLoC**: State management solution for handling app states.
+- **HTTP**: For making network requests and fetching data.
+- **Hive**: Local database for storing user favorites and other data.
+
+### Additional Packages
+
+- **google\_nav\_bar**: Used for creating a customizable navigation bar.
+- **carousel\_slider**: For implementing image sliders within the app.
+- **cached\_network\_image**: To efficiently load and cache network images.
+- **file\_downloader\_flutter**: For handling wallpaper downloads.
 
 ## 📦Installation
 
@@ -35,29 +54,6 @@ To run Pixster, use the following command:
 flutter run
 ```
 
-## 📱Features
-
-- 🧑‍💻Browse a wide collection of high-quality wallpapers.
-- 📩Download wallpapers directly to your device.
-- 🔎Search for wallpapers by keywords.
-- ➕Add wallpapers to your favorites for quick access.
-- 🙈View and download wallpapers from your favorites list at any time.
-
-## 🛠️Built With
-
-### Core Technologies
-
-- **Flutter**: For cross-platform app development.
-- **BLoC**: State management solution for handling app states.
-- **HTTP**: For making network requests and fetching data.
-- **Hive**: Local database for storing user favorites and other data.
-
-### Additional Packages
-
-- **google\_nav\_bar**: Used for creating a customizable navigation bar.
-- **carousel\_slider**: For implementing image sliders within the app.
-- **cached\_network\_image**: To efficiently load and cache network images.
-- **file\_downloader\_flutter**: For handling wallpaper downloads.
 
 ## 🤝Contributing
 
@@ -74,6 +70,5 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
 **Enjoy sharing moments with Pixster!**
 
