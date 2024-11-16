@@ -73,6 +73,7 @@
 - **carousel\_slider**: For implementing image sliders within the app.
 - **cached\_network\_image**: To efficiently load and cache network images.
 - **file\_downloader\_flutter**: For handling wallpaper downloads.
+- **get\_it**: For dependency injection.
 
 ## 📦Installation
 
