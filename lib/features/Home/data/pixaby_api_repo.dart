@@ -5,8 +5,11 @@ import 'package:pixster/features/Home/domain/photo.dart';
 import 'package:pixster/features/Home/domain/pixaby_repo.dart';
 
 class PixabyApiRepo implements PixabyRepo {
+  final http.Client client;
   final String _apiKey =
       "2AB3WsUO4SkAN2Zf6DbhwSXxhtCiYxEuQKMQiDIHu8VDKFxbGHIt0U5g";
+
+  PixabyApiRepo({required this.client});
 
   @override
   Future<List<PhotoModel>?> getTrendingImages() async {
@@ -18,7 +21,7 @@ class PixabyApiRepo implements PixabyRepo {
       final headers = {"Authorization": _apiKey};
 
       // Make the GET request
-      final http.Response res = await http.get(uri, headers: headers);
+      final http.Response res = await client.get(uri, headers: headers);
 
       // Check for a successful response
       if (res.statusCode == 200) {
